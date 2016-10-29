@@ -13,6 +13,7 @@ List
 * [Thunderbird](#Thunderbird)
 * [VLC](#Vlc)
 * [Wordpress](#Wordpress)
+* [Electronic Frontier Foundation](#EFF)
 
 ---
 
@@ -102,7 +103,7 @@ List
 
 ## Digital Rights
 
-### <a name="Electronic Frontier Foundation">[EFF](https://www.eff.org)</a>
+### <a name="EFF">[Electronic Frontier Foundation](https://www.eff.org)</a>
 * [Ways to help EFF](https://www.eff.org/helpout)
 * [Take action in the movement](https://act.eff.org/)
 * [Code with EFF](https://www.eff.org/about/opportunities/volunteer/coding-with-eff)
