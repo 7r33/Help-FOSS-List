@@ -11,6 +11,7 @@ List
 * [Pidgin](#Pidgin)
 * [Ricochet](#Ricochet)
 * [Thunderbird](#Thunderbird)
+* [Taiga] (#Taiga)
 * [VLC](#Vlc)
 * [Wordpress](#Wordpress)
 
@@ -99,3 +100,10 @@ List
 * [Bugs](https://trac.videolan.org/vlc)
 * [Translations](https://www.videolan.org/developers/i18n/transifex-howto.html)
 * [Donate](https://www.videolan.org/contribute.html#money)
+
+## Productivity
+
+### <a name="Taiga">[Taiga](https://taiga.io/)</a>
+
+* [Repository on github](https://github.com/taigaio/)
+* [Support](https://tree.taiga.io/support/)
