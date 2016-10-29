@@ -5,6 +5,7 @@ Many people like Free Software but think that they cannot contribute if they can
 List
 
 * [Atom](#Atom)
+* [Fedora](#Fedora)
 * [Filezilla](#Filezilla)
 * [Firefox](#Firefox)
 * [Gimp](#Gimp)
@@ -91,6 +92,12 @@ List
 * [Marketing](https://www.libreoffice.org/community/get-involved/#marketing)
 * [Infrastructure](https://www.libreoffice.org/community/infrastructure/)
 * [Donate](https://www.libreoffice.org/donate/)
+
+## Operating Systems
+
+### <a name="Fedora">[Fedora](https://getfedora.org/)</a>
+
+* [Get Involved](https://fedoraproject.org/wiki/Join)
 
 ## Sound & Video
 
