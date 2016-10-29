@@ -4,6 +4,7 @@ Many people like Free Software but think that they cannot contribute if they can
 
 List
 
+* [Atom](#Atom)
 * [Filezilla](#Filezilla)
 * [Firefox](#Firefox)
 * [Gimp](#Gimp)
@@ -99,3 +100,11 @@ List
 * [Bugs](https://trac.videolan.org/vlc)
 * [Translations](https://www.videolan.org/developers/i18n/transifex-howto.html)
 * [Donate](https://www.videolan.org/contribute.html#money)
+
+## Text Editor
+### <a name="Atom">[Atom](https://atom.io/)</a>
+
+* [Github](https://github.com/atom/atom)
+* [Discussion Board](https://github.com/atom/atom)
+* [Issue List](https://github.com/atom/atom/issues)
+* [Join Slack Community](http://atom-slack.herokuapp.com/)
