@@ -99,3 +99,13 @@ List
 * [Bugs](https://trac.videolan.org/vlc)
 * [Translations](https://www.videolan.org/developers/i18n/transifex-howto.html)
 * [Donate](https://www.videolan.org/contribute.html#money)
+
+## Digital Rights
+
+### <a name="Electronic Frontier Foundation">[EFF](https://www.eff.org)</a>
+* [Ways to help EFF](https://www.eff.org/helpout)
+* [Take action in the movement](https://act.eff.org/)
+* [Code with EFF](https://www.eff.org/about/opportunities/volunteer/coding-with-eff)
+* [Share content](https://www.eff.org/press)
+
+
