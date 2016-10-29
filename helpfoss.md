@@ -5,6 +5,7 @@ Many people like Free Software but think that they cannot contribute if they can
 List
 
 * [Atom](#Atom)
+* [Brackets](#Brackets)
 * [Filezilla](#Filezilla)
 * [Firefox](#Firefox)
 * [Gimp](#Gimp)
@@ -108,3 +109,7 @@ List
 * [Discussion Board](https://github.com/atom/atom)
 * [Issue List](https://github.com/atom/atom/issues)
 * [Join Slack Community](http://atom-slack.herokuapp.com/)
+
+### <a name="Brackets">[Brackets](http://brackets.io/)</a>
+
+* [Contribute](http://brackets.io/contribute.html)
