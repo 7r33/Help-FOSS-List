@@ -5,6 +5,7 @@ Many people like Free Software but think that they cannot contribute if they can
 List
 
 * [Atom](#Atom)
+* [Chromium](#Chromium)
 * [Filezilla](#Filezilla)
 * [Firefox](#Firefox)
 * [Gimp](#Gimp)
@@ -18,6 +19,10 @@ List
 ---
 
 ## Browser
+
+### <a name="Chromium">[Chromium](https://www.chromium.org/Home)
+
+* [Chromium Getting involved page](https://www.chromium.org/getting-involved)
 
 ### <a name="Firefox">[Firefox](https://www.mozilla.org/en-US/firefox/products/?icn=tabz)</a>
 
