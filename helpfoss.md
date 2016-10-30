@@ -1,6 +1,6 @@
 ## Support Free Software Projects  
 
-Many people like Free Software but think that they cannot contribute if they can't programm. This (*non exhaustive*) list shows how supporters can help different projects. 
+Many people like free software but think that they cannot contribute if they can't program. This (*non exhaustive*) list shows how supporters can help different projects. 
 
 List
 
