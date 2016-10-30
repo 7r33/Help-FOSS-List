@@ -9,7 +9,10 @@ List
  > [Firefox](#Firefox)
 * Content Management System (CMS)
   
- > [Wordpress](#Wordpress)
+ > [Wordpress](#Wordpress) 
+* Digital Rights
+ > [Electronic Frontier Foundation](#EFF
+
 * Email
 
  > [Thunderbird](#Thunderbird)
@@ -48,6 +51,14 @@ List
 * [Design](https://make.wordpress.org/design)
 * [Accessibility](https://make.wordpress.org/accessibility/)
 * [Support](https://make.wordpress.org/support/)
+
+## Digital Rights
+
+### <a name="EFF">[Electronic Frontier Foundation](https://www.eff.org)</a>
+* [Ways to help EFF](https://www.eff.org/helpout)
+* [Take action in the movement](https://act.eff.org/)
+* [Code with EFF](https://www.eff.org/about/opportunities/volunteer/coding-with-eff)
+* [Share content](https://www.eff.org/press)
 
 ## Email
 
@@ -124,11 +135,3 @@ List
 * [Bugs](https://trac.videolan.org/vlc)
 * [Translations](https://www.videolan.org/developers/i18n/transifex-howto.html)
 * [Donate](https://www.videolan.org/contribute.html#money)
-
-## Text Editor
-### <a name="Atom">[Atom](https://atom.io/)</a>
-
-* [Github](https://github.com/atom/atom)
-* [Discussion Board](https://github.com/atom/atom)
-* [Issue List](https://github.com/atom/atom/issues)
-* [Join Slack Community](http://atom-slack.herokuapp.com/)
