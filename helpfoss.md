@@ -33,6 +33,9 @@ List
 * Productivity
 
  * [Taiga](#Taiga)
+* Operating System
+
+ * [Fedora](#Fedora)
 * Sound & Video
 
  * [VLC](#Vlc)
@@ -129,6 +132,12 @@ List
 * [Infrastructure](https://www.libreoffice.org/community/infrastructure/)
 * [Donate](https://www.libreoffice.org/donate/)
 
+## Operating Systems
+
+### <a name="Fedora">[Fedora](https://getfedora.org/)</a>
+
+* [Get Involved](https://fedoraproject.org/wiki/Join)
+
 ## Productivity
 
 ### <a name="Taiga">[Taiga](https://taiga.io/)</a>
@@ -146,6 +155,7 @@ List
 * [Donate](https://www.videolan.org/contribute.html#money)
 
 ## Text Editor
+
 ### <a name="Atom">[Atom](https://atom.io/)</a>
 
 * [Github](https://github.com/atom/atom)
