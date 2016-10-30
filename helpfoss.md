@@ -4,17 +4,33 @@ Many people like Free Software but think that they cannot contribute if they can
 
 List
 
-* [Atom](#Atom)
-* [Filezilla](#Filezilla)
-* [Firefox](#Firefox)
-* [Gimp](#Gimp)
-* [Libreoffice](#LibreOffice)
-* [Pidgin](#Pidgin)
-* [Ricochet](#Ricochet)
-* [Taiga] (#Taiga)
-* [Thunderbird](#Thunderbird)
-* [VLC](#Vlc)
-* [Wordpress](#Wordpress)
+* Browser
+
+ > [Firefox](#Firefox)
+* Content Management System (CMS)
+  
+ > [Wordpress](#Wordpress)
+* Email
+
+ > [Thunderbird](#Thunderbird)
+* FTP Clients
+
+ > [Filezilla](#Filezilla)
+* Graphics
+
+ > [Gimp](#Gimp)
+* Messenger
+
+ > [Ricochet](#Ricochet), [Pidgin](#Pidgin)
+* Office Suite
+
+ > [Libreoffice](#LibreOffice)
+* Sound & Video
+
+ > [VLC](#Vlc)
+* Text Editor
+
+ > [Atom](#Atom)
 
 ---
 
