@@ -11,7 +11,7 @@ List
   
  > [Wordpress](#Wordpress) 
 * Digital Rights
- > [Electronic Frontier Foundation](#EFF
+ > [Electronic Frontier Foundation](#EFF)
 
 * Email
 
