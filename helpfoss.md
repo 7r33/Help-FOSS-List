@@ -7,6 +7,7 @@ List
 * Browser
 
  > [Firefox](#Firefox)
+ > [Chromium](#Chromium)
 * Content Management System (CMS)
   
  > [Wordpress](#Wordpress) 
@@ -38,6 +39,10 @@ List
 ---
 
 ## Browser
+
+### <a name="Chromium">[Chromium](https://www.chromium.org/Home)
+
+* [Chromium Getting involved page](https://www.chromium.org/getting-involved)
 
 ### <a name="Firefox">[Firefox](https://www.mozilla.org/en-US/firefox/products/?icn=tabz)</a>
 
@@ -135,3 +140,11 @@ List
 * [Bugs](https://trac.videolan.org/vlc)
 * [Translations](https://www.videolan.org/developers/i18n/transifex-howto.html)
 * [Donate](https://www.videolan.org/contribute.html#money)
+
+## Text Editor
+### <a name="Atom">[Atom](https://atom.io/)</a>
+
+* [Github](https://github.com/atom/atom)
+* [Discussion Board](https://github.com/atom/atom)
+* [Issue List](https://github.com/atom/atom/issues)
+* [Join Slack Community](http://atom-slack.herokuapp.com/)
