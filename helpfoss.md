@@ -11,6 +11,7 @@ List
 * [Libreoffice](#LibreOffice)
 * [Pidgin](#Pidgin)
 * [Ricochet](#Ricochet)
+* [Taiga] (#Taiga)
 * [Thunderbird](#Thunderbird)
 * [VLC](#Vlc)
 * [Wordpress](#Wordpress)
@@ -91,6 +92,13 @@ List
 * [Marketing](https://www.libreoffice.org/community/get-involved/#marketing)
 * [Infrastructure](https://www.libreoffice.org/community/infrastructure/)
 * [Donate](https://www.libreoffice.org/donate/)
+
+## Productivity
+
+### <a name="Taiga">[Taiga](https://taiga.io/)</a>
+
+* [Repository on github](https://github.com/taigaio/)
+* [Support](https://tree.taiga.io/support/)
 
 ## Sound & Video
 
