@@ -6,35 +6,39 @@ List
 
 * Browser
 
- > [Firefox](#Firefox)
- > [Chromium](#Chromium)
+ * [Firefox](#Firefox)
+ * [Chromium](#Chromium)
 * Content Management System (CMS)
   
- > [Wordpress](#Wordpress) 
+ * [Wordpress](#Wordpress) 
 * Digital Rights
- > [Electronic Frontier Foundation](#EFF)
+ * [Electronic Frontier Foundation](#EFF)
 
 * Email
 
- > [Thunderbird](#Thunderbird)
+ * [Thunderbird](#Thunderbird)
 * FTP Clients
 
- > [Filezilla](#Filezilla)
+ * [Filezilla](#Filezilla)
 * Graphics
 
- > [Gimp](#Gimp)
+ * [Gimp](#Gimp)
 * Messenger
 
- > [Ricochet](#Ricochet), [Pidgin](#Pidgin)
+ * [Pidgin](#Pidgin)
+ * [Ricochet](#Ricochet)
 * Office Suite
 
- > [Libreoffice](#LibreOffice)
+ * [Libreoffice](#LibreOffice)
+* Productivity
+
+ * [Taiga](#Taiga)
 * Sound & Video
 
- > [VLC](#Vlc)
+ * [VLC](#Vlc)
 * Text Editor
 
- > [Atom](#Atom)
+ * [Atom](#Atom)
 
 ---
 
