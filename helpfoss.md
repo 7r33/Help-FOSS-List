@@ -1,63 +1,51 @@
 ## Support Free Software Projects  
 
-Many people like free software but think that they cannot contribute if they can't program. This (*non exhaustive*) list shows how supporters can help different projects. 
+Many people like free software but think that they cannot contribute if they can't program. This (*non exhaustive*) list shows how supporters can help different projects.
 
-List
+## Contents
 
-* Browser
-
- * [Firefox](#Firefox)
- * [Chromium](#Chromium)
-* Content Management System (CMS)
- 
- * [Concrete5] (#Concrete5)
- * [Drupal](#Drupal)
- * [Wordpress](#Wordpress) 
-* Digital Rights
- * [Electronic Frontier Foundation](#EFF)
-
-* Email
-
- * [Thunderbird](#Thunderbird)
-* FTP Clients
-
- * [Filezilla](#Filezilla)
-* Graphics
-
- * [Gimp](#Gimp)
-* Messenger
-
- * [Pidgin](#Pidgin)
- * [Ricochet](#Ricochet)
-* Office Suite
-
- * [Libreoffice](#LibreOffice)
-* Productivity
-
- * [Taiga](#Taiga)
-* Operating System
-
- * [Fedora](#Fedora)
-* Sound & Video
-
- * [VLC](#Vlc)
-* Text Editor
-
- * [Atom](#Atom)
- * [Brackets](#Brackets)
+  - [Browser](#browser)
+    - [Firefox](#firefox)
+  - [Content Management System (CMS)](#content-management-system-cms)
+    - [Concrete5](#concrete5)
+    - [Drupal](#drupal)
+    - [Wordpress](#wordpress)
+  - [Digital Rights](#digital-rights)
+    - [Electronic Frontier Foundation](#electronic-frontier-foundation)
+  - [Email](#email)
+    - [Thunderbird](#thunderbird)
+  - [FTP Clients](#ftp-clients)
+    - [Filezilla](#filezilla)
+  - [Graphics](#graphics)
+    - [Gimp](#gimp)
+  - [Messenger](#messenger)
+    - [Ricochet](#ricochet)
+    - [Pidgin](#pidgin)
+  - [Office Suite](#office-suite)
+    - [Libreoffice](#libreoffice)
+  - [Productivity](#productivity)
+    - [Taiga](#taiga)
+  - [Operating System](#operating-system)
+    - [Fedora](#fedora)
+  - [Sound & Video](#sound--video)
+    - [VLC](#vlc)
+  - [Text Editor](#text-editor)
+    - [Atom](#atom)
+    - [Brackets](#brackets)
 
 ---
 
 ## Browser
 
-### <a name="Firefox">[Firefox](https://www.mozilla.org/en-US/firefox/products/?icn=tabz)</a>
+### [Firefox](https://www.mozilla.org/en-US/firefox/products/)
 
 * [Mozillas get involved page](https://support.mozilla.org/en-US/get-involved)
-* [Donate](https://donate.mozilla.org/en-US/?presets=100,50,25,15&amount=50&ref=EOYFR2015&utm_campaign=EOYFR2015&utm_source=mozilla.org&utm_medium=referral&utm_content=mozillaorg_tabzillaTXT&currency=usd&icn=tabz)
+* [Donate](https://donate.mozilla.org/en-US/)
+
 
 ## Content Management System (CMS)
 
-### <a name="Concrete5">[Concrete5](https://www.concrete5.org/)</a>
+### [Concrete5](https://www.concrete5.org/)
 * [Get Involved](http://www.concrete5.org/developers)
 * [Contribute](http://documentation.concrete5.org/contribute)
 * [Developers Guide](http://documentation.concrete5.org/developers)
@@ -65,39 +53,43 @@ List
 * [Tutorials](http://documentation.concrete5.org/tutorials)
 * [Spread the Word](https://www.concrete5.org/marketplace/swag)
 
-### <a name="Drupal">[Drupal](https://www.drupal.org/)</a>
+### [Drupal](https://www.drupal.org/)
 * [Get Involved](https://www.drupal.org/getting-involved)
 
-### <a name="Wordpress">[Wordpress](https://wordpress.org/)</a>
+### [Wordpress](https://wordpress.org/)
 * [Get involved](https://make.wordpress.org/)
 * [Design](https://make.wordpress.org/design)
 * [Accessibility](https://make.wordpress.org/accessibility/)
 * [Support](https://make.wordpress.org/support/)
 
+
 ## Digital Rights
 
-### <a name="EFF">[Electronic Frontier Foundation](https://www.eff.org)</a>
+### [Electronic Frontier Foundation](https://www.eff.org)
 * [Ways to help EFF](https://www.eff.org/helpout)
 * [Take action in the movement](https://act.eff.org/)
 * [Code with EFF](https://www.eff.org/about/opportunities/volunteer/coding-with-eff)
 * [Share content](https://www.eff.org/press)
 
+
 ## Email
 
-### <a name="Thunderbird">[Thunderbird](https://www.mozilla.org/en-US/thunderbird/?icn=tabz)</a>
+### [Thunderbird](https://www.mozilla.org/en-US/thunderbird/?icn=tabz)
 * [Mozillas get involved page](https://support.mozilla.org/en-US/get-involved)
-* [Donate](https://donate.mozilla.org/en-US/?presets=100,50,25,15&amount=50&ref=EOYFR2015&utm_campaign=EOYFR2015&utm_source=mozilla.org&utm_medium=referral&utm_content=mozillaorg_tabzillaTXT&currency=usd&icn=tabz)
+* [Donate](https://donate.mozilla.org/en-US/)
+
 
 ## FTP Clients
 
-### <a name="Filezilla">[Filezilla](https://filezilla-project.org/)</a>
+### [Filezilla](https://filezilla-project.org/)
 
 * [Translation](https://filezilla-project.org/translations.php)
 * [Bugs](https://trac.filezilla-project.org/)
 
+
 ## Graphics
 
-### <a name="Gimp">[GIMP](https://www.gimp.org/)</a>
+### [GIMP](https://www.gimp.org/)
 
 * [How you can help](https://www.gimp.org/develop/)
 * [Bugs](https://www.gimp.org/bugs/)
@@ -106,11 +98,12 @@ List
 * [UI brainstorm](https://gimp-brainstorm.blogspot.de/)
 * [Donate](https://www.gimp.org/donating/)
 
+
 ## Messenger
 
-### <a name="Ricochet">[Ricochet](https://ricochet.im/)</a>
+### [Ricochet](https://ricochet.im/)
 
-* [How to help](https://ricochet.im/#how-to-help:6083a88ee3411b0d17ce02d738f69d47)
+* [How to help](https://ricochet.im/#how-to-help)
 
 * Bugs and features
   * on the [issue tracker](https://github.com/ricochet-im/ricochet/issues)
@@ -122,16 +115,17 @@ List
   * John Brooksricochet:rs7ce36jsj24ogfw or john.brooks@dereferenced.net ([pgp](https://ricochet.im/john-brooks.asc)).
 * You should support The Tor Project, EFF, and run a Tor relay.
   
-### <a name="Pidgin">[Pidgin](https://pidgin.im/)</a>
+### [Pidgin](https://pidgin.im/)
 
 * [Overview](https://developer.pidgin.im/)
 * [Bug reports](https://developer.pidgin.im/wiki/TipsForBugReports)
 * [Spread the word](https://developer.pidgin.im/wiki/SpreadPidginAvatars)
 * [Translation](https://developer.pidgin.im/wiki/TipsForTranslators)
 
+
 ## Office Suite
 
-### <a name="LibreOffice">[Libre Office](https://www.libreoffice.org/)</a>
+### [Libre Office](https://www.libreoffice.org/)
 
 * [Get involved](https://www.libreoffice.org/community/get-involved/)
 * [Documentation](https://www.libreoffice.org/community/get-involved/#docs)
@@ -142,32 +136,39 @@ List
 * [Infrastructure](https://www.libreoffice.org/community/infrastructure/)
 * [Donate](https://www.libreoffice.org/donate/)
 
+
 ## Operating Systems
 
-### <a name="Fedora">[Fedora](https://getfedora.org/)</a>
+### [Fedora](https://getfedora.org/)
 
 * [Get Involved](https://fedoraproject.org/wiki/Join)
 
+
 ## Productivity
 
-### <a name="Taiga">[Taiga](https://taiga.io/)</a>
+### [Taiga](https://taiga.io/)
 
 * [Repository on github](https://github.com/taigaio/)
 * [Support](https://tree.taiga.io/support/)
 
+
 ## Sound & Video
 
-### <a name="Vlc">[VLC](https://www.videolan.org/vlc/)</a>
+### [VLC](https://www.videolan.org/vlc/)
 
 * [How to contribute to VideoLAN](https://www.videolan.org/contribute.html)
 * [Bugs](https://trac.videolan.org/vlc)
 * [Translations](https://www.videolan.org/developers/i18n/transifex-howto.html)
 * [Donate](https://www.videolan.org/contribute.html#money)
 
+
 ## Text Editor
-### <a name="Atom">[Atom](https://atom.io/)</a>
+
+### [Atom](https://atom.io/)
 
 * [Github](https://github.com/atom/atom)
 * [Discussion Board](https://github.com/atom/atom)
 * [Issue List](https://github.com/atom/atom/issues)
 * [Join Slack Community](http://atom-slack.herokuapp.com/)
+
+---
