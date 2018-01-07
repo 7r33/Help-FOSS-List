@@ -19,9 +19,9 @@ Many people like free software but think that they cannot contribute if they can
   - [Graphics](#graphics)
     - [Gimp](#gimp)
   - [Messenger](#messenger)
-    - [gajim](#gajim)
-    - [Ricochet](#ricochet)
+    - [Gajim](#gajim)
     - [Pidgin](#pidgin)
+    - [Ricochet](#ricochet)
   - [Office Suite](#office-suite)
     - [Libreoffice](#libreoffice)
   - [Productivity](#productivity)
@@ -102,12 +102,19 @@ Many people like free software but think that they cannot contribute if they can
 
 ## Messenger
 
-### [gajim](https://gajim.org/)
+### [Gajim](https://gajim.org/)
 
 * [How to help](https://gajim.org/dev.php?lang=en#help)
 * [Translations wiki](https://dev.gajim.org/gajim/gajim/wikis/development/DevTranslate)
 * [Bugs](https://dev.gajim.org/users/sign_in)
 * [Donate](https://gajim.org/dev.php?lang=en#donate)
+
+### [Pidgin](https://pidgin.im/)
+
+* [Overview](https://developer.pidgin.im/)
+* [Bug reports](https://developer.pidgin.im/wiki/TipsForBugReports)
+* [Spread the word](https://developer.pidgin.im/wiki/SpreadPidginAvatars)
+* [Translation](https://developer.pidgin.im/wiki/TipsForTranslators)
 
 ### [Ricochet](https://ricochet.im/)
 
@@ -122,13 +129,6 @@ Many people like free software but think that they cannot contribute if they can
 * Contact:    
   * John Brooksricochet:rs7ce36jsj24ogfw or john.brooks@dereferenced.net ([pgp](https://ricochet.im/john-brooks.asc)).
 * You should support The Tor Project, EFF, and run a Tor relay.
-
-### [Pidgin](https://pidgin.im/)
-
-* [Overview](https://developer.pidgin.im/)
-* [Bug reports](https://developer.pidgin.im/wiki/TipsForBugReports)
-* [Spread the word](https://developer.pidgin.im/wiki/SpreadPidginAvatars)
-* [Translation](https://developer.pidgin.im/wiki/TipsForTranslators)
 
 
 ## Office Suite
