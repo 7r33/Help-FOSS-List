@@ -19,6 +19,7 @@ Many people like free software but think that they cannot contribute if they can
   - [Graphics](#graphics)
     - [Gimp](#gimp)
   - [Messenger](#messenger)
+    - [gajim](#gajim)
     - [Ricochet](#ricochet)
     - [Pidgin](#pidgin)
   - [Office Suite](#office-suite)
@@ -101,6 +102,13 @@ Many people like free software but think that they cannot contribute if they can
 
 ## Messenger
 
+### [gajim](https://gajim.org/)
+
+* [How to help](https://gajim.org/dev.php?lang=en#help)
+* [Translations wiki](https://dev.gajim.org/gajim/gajim/wikis/development/DevTranslate)
+* [Bugs](https://dev.gajim.org/users/sign_in)
+* [Donate](https://gajim.org/dev.php?lang=en#donate)
+
 ### [Ricochet](https://ricochet.im/)
 
 * [How to help](https://ricochet.im/#how-to-help)
@@ -108,13 +116,13 @@ Many people like free software but think that they cannot contribute if they can
 * Bugs and features
   * on the [issue tracker](https://github.com/ricochet-im/ricochet/issues)
 * Translations
-  * on [Transifex](https://www.transifex.com/projects/p/ricochet/) 
+  * on [Transifex](https://www.transifex.com/projects/p/ricochet/)
 * Patches     
   * [GitHub](https://github.com/ricochet-im/ricochet) or by [email](john.brooks@dereferenced.net)
 * Contact:    
   * John Brooksricochet:rs7ce36jsj24ogfw or john.brooks@dereferenced.net ([pgp](https://ricochet.im/john-brooks.asc)).
 * You should support The Tor Project, EFF, and run a Tor relay.
-  
+
 ### [Pidgin](https://pidgin.im/)
 
 * [Overview](https://developer.pidgin.im/)
