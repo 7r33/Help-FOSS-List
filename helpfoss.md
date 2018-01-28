@@ -29,6 +29,7 @@ Many people like free software but think that they cannot contribute if they can
   - [Operating System](#operating-system)
     - [Fedora](#fedora)
   - [Sound & Video](#sound--video)
+    - [Mediathekview](#mediathekview)
     - [VLC](#vlc)
   - [Text Editor](#text-editor)
     - [Atom](#atom)
@@ -161,6 +162,11 @@ Many people like free software but think that they cannot contribute if they can
 
 
 ## Sound & Video
+
+### [Mediathekview](https://mediathekview.de/)
+
+* [Bugs](https://github.com/mediathekview/mediathekview)
+* [Donate](https://mediathekview.de/spenden/)
 
 ### [VLC](https://www.videolan.org/vlc/)
 
